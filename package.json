@@ -1,0 +1,12 @@
+{
+  "name": "my_google",
+  "version": "1.0.0",
+  "description": "Primeiro projeto para a iniciativa de projetos para iniciantes - Nível: HTML e CSS básico/intermediário",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Edimar dos Santos Resende - @Edi-Santos",
+  "license": "ISC"
+}
