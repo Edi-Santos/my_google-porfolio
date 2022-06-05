@@ -11,5 +11,9 @@ describe('My Google', () => {
     it('Crie um </ header>', () => {
       cy.get(HEADER).should('exist');
     });
+
+    it('O </ header> deve possuir 4 elementos', () => {
+      cy.get(HEADER).children().should('have.length', 4);
+    });
   });
 });
