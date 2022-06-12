@@ -41,6 +41,8 @@ surgir dúvidas, use este exemplo pronto apenas como último recurso.
 - __HTML__
 - __CSS__
 
+Fique à vontade para ir além e utilizar bibliotecas como, pro exemplo, _Bootstrap_.
+
 ---
 
 ### Durante o Desenvolvimento
