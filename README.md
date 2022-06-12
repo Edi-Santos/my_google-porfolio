@@ -16,6 +16,14 @@ Fique a vontade para pegar os projetos e desenvolver à sua maneira, publicar no
 
 ### Requisitos Para Desenvolver Este Projeto
 
+- VS Code
+- NodeJS v14^
+
+Para este projeto você precisa ter instalado em sua máquina um editor de código (sugiro o VS Code pela sua simplicidade e leveza além
+de extensões que facilitam muito o desenvolvimento) e o Node na versão 14.0.0 ou superior.
+
+---
+
 ### Sobre o Projeto
 
 Neste projeto você desenvolverá a tela do Google (ou, pelo menos, uma tela semelhante :sweat_smile:). O objetivo é você desenvolver e consolidar seus
