@@ -11,6 +11,8 @@ Fique a vontade para pegar os projetos e desenvolver à sua maneira, publicar no
   2. [Sobre o Projeto](#sobre-o-projeto)
      - [Tecnologias a Serem Utilizadas](#tecnologias-a-serem-utilizadas)
   3. [Durante o Desenvolvimento](#durante-o-desenvolvimento)
+     - [Instalando as Dependências](#instalando-as-dependências)
+     - [Mantendo Seu Código Versionado](#mantendo-seu-código-versionado)
 
 ---
 
@@ -47,4 +49,21 @@ Fique à vontade para ir além e utilizar bibliotecas como, por exemplo, _Bootst
 
 ### Durante o Desenvolvimento
 
-Para iniciar o projeto certifique-se instalar as dependências
+#### Instalando as Dependências
+
+Para iniciar o projeto certifique-se instalar as dependências.
+
+Abra o seu terminal na raiz do projeto e executo o comando:
+
+```
+npm install
+```
+
+Executado este comando, serão instaladas todas as dependências do projeto.
+
+#### Mantendo Seu Código Versionado
+
+Busque fazer pequenos commits a cada nova funcionalidade do projeto implementada. </br>
+É uma boa prática de mercado o uso de `commits semânticos`. Caso ainda não conheça esta prática pode começar a ler sobre eles <a href='https://medium.com/linkapi-solutions/conventional-commits-pattern-3778d1a1e657'>aqui</a>
+
+---
