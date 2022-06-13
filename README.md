@@ -64,6 +64,6 @@ Executado este comando, serão instaladas todas as dependências do projeto.
 #### Mantendo Seu Código Versionado
 
 Busque fazer pequenos commits a cada nova funcionalidade do projeto implementada. </br>
-É uma boa prática de mercado o uso de `commits semânticos`. Caso ainda não conheça esta prática pode começar a ler sobre eles <a href='https://medium.com/linkapi-solutions/conventional-commits-pattern-3778d1a1e657'>aqui</a>
+É uma boa prática de mercado o uso de `commits semânticos`. Caso ainda não conheça esta prática pode começar a ler sobre eles <a href='https://medium.com/linkapi-solutions/conventional-commits-pattern-3778d1a1e657' target='_blank'>aqui</a>
 
 ---
