@@ -24,6 +24,22 @@ Fique a vontade para pegar os projetos e desenvolver à sua maneira, publicar no
 Para este projeto você precisa ter instalado em sua máquina um editor de código (sugiro o VS Code pela sua simplicidade e leveza além
 de extensões que facilitam muito o desenvolvimento) e o Node na versão 14.0.0 ou superior.
 
+Para saber qual versão do Node está rodando em sua máquina, abra o terminal e execute:
+
+```
+node --version
+```
+
+Caso precise mudar a versão do Node, uma opção é fazer uso do `NVM` para instalar novas versões e gerenciar as versões do Node em sua máquina.
+
+Para saber se você tem o `NVM` instalado em sua máquina, abra o terminal e execute:
+
+```
+nvm --version
+```
+
+Você pode aprender mais sobre `NVM` <a href='https://github.com/nvm-sh/nvm'>aqui</a>
+
 ---
 
 ### Sobre o Projeto
