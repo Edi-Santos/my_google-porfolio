@@ -49,10 +49,10 @@ Você pode aprender mais sobre `NVM` <a href='https://github.com/nvm-sh/nvm'>aqu
 Neste projeto você desenvolverá a tela do Google (ou, pelo menos, uma tela semelhante :sweat_smile:). O objetivo é você desenvolver e consolidar seus
 conhecimentos em _HTML_ e _CSS_.
 
-__Obs.1__: Sinta-se à vontade para desenvolver o projeto bem à sua maneira, com suas características, mas vise sempre manter o código mais limpo e legível
+>__Obs.1__: Sinta-se à vontade para desenvolver o projeto bem à sua maneira, com suas características, mas vise sempre manter o código mais limpo e legível
 possível. Mantenha a organização de seus códigos.
 
-__Obs.2__: Na raiz do projeto há um diretório (pasta) chamada *__base_answer__*. Nesta pasta está um exemplo do projeto pronto desenvolvido por mim. A intenção
+>__Obs.2__: Na raiz do projeto há um diretório (pasta) chamada *__base_answer__*. Nesta pasta está um exemplo do projeto pronto desenvolvido por mim. A intenção
 é de você poder ter um lugar para que possa tirar alguma dúvida. Busque não se debruçar em cima do projeto pronto, tente fazer do seu jeito, pesquise quando
 surgir dúvidas, use este exemplo pronto apenas como último recurso.
 
