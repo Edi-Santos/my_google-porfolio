@@ -53,7 +53,7 @@ Fique à vontade para ir além e utilizar bibliotecas como, por exemplo, _Bootst
 
 Para iniciar o projeto certifique-se instalar as dependências.
 
-Abra o seu terminal na raiz do projeto e executo o comando:
+Abra o seu terminal na raiz do projeto e execute o comando:
 
 ```
 npm install
