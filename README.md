@@ -13,6 +13,7 @@ Fique a vontade para pegar os projetos e desenvolver à sua maneira, publicar no
   3. [Durante o Desenvolvimento](#durante-o-desenvolvimento)
      - [Mantendo Seu Código Versionado](#mantendo-seu-código-versionado)
   4. [Desenvolvendo o Projeto](#desenvolvendo-o-projeto)
+     - [Iniciando o Projeto](#iniciando-o-projeto)
      - [Instalando as Dependências](#instalando-as-dependências)
 
 ---
@@ -75,6 +76,16 @@ Busque fazer pequenos commits a cada nova funcionalidade do projeto implementada
 
 ### Desenvolvendo o Projeto
 
+#### Iniciando o Projeto
+
+Para dar o primeiro passo você precisa criar um _fork_ do projeto. Assim você estará puxando o projeto do meu repositório para o seu.
+
+>__Obs.1__: Se você ainda não possui conhecimento sobre como o _fork_ funciona, leia <a href='https://docs.github.com/pt/get-started/quickstart/contributing-to-projects'>este guia</a> sobre _fork_ até a seção `Fazendo e enviando por push as alterações`. </br> Você pode ir além nos conhecimentos sobre _fork_ mas não serão necessários para este projeto.
+
+>__Obs.2__: *__NÃO É NECESSÁRIO ABRIR UM PR (Pull Request)!!!__*
+
+Feito o _fork_, clone o repositório para o seu computador
+
 #### Instalando as Dependências
 
 Para iniciar o projeto certifique-se instalar as dependências.
@@ -86,6 +97,5 @@ npm install
 ```
 
 Executado este comando, serão instaladas todas as dependências do projeto.
-
 
 ---
