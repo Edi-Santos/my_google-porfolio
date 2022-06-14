@@ -1,8 +1,10 @@
 # Bem Vindo ao Projeto My Google!!!
 
-Este é o primeiro projeto da iniciativa para ajudar aos iniciantes na programação a começarem a desenvolver um *__Portfólio__*. Também ajudará aos que
-desejam pegar novos projetos para praticar e se aperfeiçoarem ainda mais, estendendo, consequentenmente, ainda mais o Portfólio. </br>
+Este é o primeiro projeto com o propósito de ajudar aos iniciantes na programação a começarem a desenvolver um *__Portfólio__*. Também ajudará aos que
+desejam pegar novos projetos para praticar e se aperfeiçoarem, estendendo, consequentenmente, ainda mais o Portfólio. </br>
 Fique a vontade para pegar os projetos e desenvolver à sua maneira, publicar no LinkedIn, mostrar para rescrutadores e tudo mais.
+
+>*__Obs__*.: __LEIA ATENTAMENTE TODO O `README` ANTES DE COMEÇAR O DESENVOLVIMENTO DO PROJETO, POIS NELE ESTÃO CONTIDAS TODAS AS INFORMAÇÕES NECESSÁRIAS PARA O DESENVOLVIMENTO DO PROJETO.__
 
 ---
 
