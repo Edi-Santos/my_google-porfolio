@@ -17,6 +17,7 @@ Fique a vontade para pegar os projetos e desenvolver à sua maneira, publicar no
   4. [Desenvolvendo o Projeto](#desenvolvendo-o-projeto)
      - [Iniciando o Projeto](#iniciando-o-projeto)
      - [Instalando as Dependências](#instalando-as-dependências)
+     - [Rodando os Testes](#rodando-os-testes)
 
 ---
 
