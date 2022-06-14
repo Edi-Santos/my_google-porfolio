@@ -100,7 +100,7 @@ Executado este comando, serão instaladas todas as dependências do projeto.
 
 #### Rodando os Testes
 
-Para os testes de Front-end nós estaremos utilizando o __Cypress__, uma poderosa ferramenta de testes para validação de telas. Ele acessa o código ou URL e verifica, de acordo com os testes implementados, a existência ou não de elementos DOM. </br>
+Para os testes de Front-end nós estaremos utilizando o __Cypress__, uma poderosa ferramenta de testes para validação de telas. Ele acessa o código fonte ou URL e verifica, de acordo com os testes implementados, a existência ou não de elementos DOM. </br>
 O mais importante aqui é que você saiba como executar estes testes para que possa desenvolver o projeto de acordo com o que se é pedido.
 
 Para começar a testar, com seu terminal aberto na raiz do projeto, execute:
@@ -117,12 +117,14 @@ Após a inicialização do Cypress abrirá a seguinte tela:
 
 Veja que temos 1 arquivo de testes chamado *__my_google.spec.js__*. Clique neste arquivo de testes.
 
-><img src='./img_readme/cypress-tela_executando_testes.png' alt='Tele de execução dos testes' /> </br>
+><img src='./img_readme/cypress-tela_executando_testes.png' alt='Tela de execução dos testes' /> </br>
 
-A tela mostrada acima abrirá executando todos os testes presentes no arquivo *__my_google.spec.js__*
+A tela mostrada acima é a tela que abrirá executando todos os testes presentes no arquivo *__my_google.spec.js__*
 
 Caso abrir o teste seja a primeira coisa que você faça, abrirá exatamente esta tela mostrada no print acima, pois o _Cypress_ não conseguirá encontrar o arquivo a ser testado (index.html).
 
-><img src='./img_img_readme/cypress-tela_executando_teste_passando.png' />
+><img src='./img_readme/cypress-tela_executando_teste_passando.png' alt='Tela de execução dos testes com 1 teste passando' /> </br>
+
+Conforme você for cumprindo cada requisito, você vai ganhando um *__check__* verde indicando o seu avanço.
 
 ---
