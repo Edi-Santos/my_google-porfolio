@@ -98,4 +98,31 @@ npm install
 
 Executado este comando, serão instaladas todas as dependências do projeto.
 
+#### Rodando os Testes
+
+Para os testes de Front-end nós estaremos utilizando o __Cypress__, uma poderosa ferramenta de testes para validação de telas. Ele acessa o código ou URL e verifica, de acordo com os testes implementados, a existência ou não de elementos DOM. </br>
+O mais importante aqui é que você saiba como executar estes testes para que possa desenvolver o projeto de acordo com o que se é pedido.
+
+Para começar a testar, com seu terminal aberto na raiz do projeto, execute:
+
+```
+npm run cypress:open
+```
+
+Aguarde um momento! O Cypress será iniciado (paciência... às vezes demora um pouco mesmo :grimacing:).
+
+Após a inicialização do Cypress abrirá a seguinte tela:
+
+><img src='./img_readme/cypress-tela_testes.png' alt='Tela inicial do Cypress'/> </br>
+
+Veja que temos 1 arquivo de testes chamado *__my_google.spec.js__*. Clique neste arquivo de testes.
+
+><img src='./img_readme/cypress-tela_executando_testes.png' alt='Tele de execução dos testes' /> </br>
+
+A tela mostrada acima abrirá executando todos os testes presentes no arquivo *__my_google.spec.js__*
+
+Caso abrir o teste seja a primeira coisa que você faça, abrirá exatamente esta tela mostrada no print acima, pois o _Cypress_ não conseguirá encontrar o arquivo a ser testado (index.html).
+
+><img src='./img_img_readme/cypress-tela_executando_teste_passando.png' />
+
 ---
