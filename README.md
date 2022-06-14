@@ -88,9 +88,9 @@ Feito o _fork_, clone o repositório para o seu computador
 
 #### Instalando as Dependências
 
-Para iniciar o projeto certifique-se instalar as dependências.
+Para iniciar o projeto certifique-se de instalar as dependências.
 
-Abra o seu terminal na raiz do projeto e execute o comando:
+Abra o seu terminal na raiz do projeto (o terminal do VS Code já abre na pasta que o VS Code foi aberto) e execute o comando:
 
 ```
 npm install
