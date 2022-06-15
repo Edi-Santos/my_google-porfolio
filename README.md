@@ -18,7 +18,8 @@ Fique a vontade para pegar os projetos e desenvolver à sua maneira, publicar no
      - [Iniciando o Projeto](#iniciando-o-projeto)
      - [Instalando as Dependências](#instalando-as-dependências)
      - [Rodando os Testes](#rodando-os-testes)
-
+  - [Requisitos do Projeto](#requisitos-do-projeto)
+     - [Lista de Requisitos](#lista-de-requisitos)
 ---
 
 ### Requisitos Para Desenvolver Este Projeto
@@ -131,3 +132,13 @@ Caso abrir o teste seja a primeira coisa que você faça, abrirá exatamente est
 Conforme você for cumprindo cada requisito, você vai ganhando um *__check__* verde indicando o seu avanço.
 
 ---
+
+### Requisitos do Projeto
+
+Faça com calma e atenção. Muito importante a __organização__ de seus códigos.
+
+Ao concluir o projeto, ele deverá estar semelhante ao seguinte print:
+
+><img src='./img_readme/projeto-finalizado.png' alt='Exemplo de projeto concluído'> </br>
+
+Mas fique à vontade para adicionar novas funcionalidades, adicionar os ícones de dentro do `<input />`, dentre outras coisas. A imagem acima é apenas um exemplo (o resultado do código da pasta _base_answer_)
