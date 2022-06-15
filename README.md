@@ -9,12 +9,12 @@ Fique a vontade para pegar os projetos e desenvolver à sua maneira, publicar no
 ---
 
 ## Sumário
-  1. [Requisitos Para Desenvolver Este Projeto](#requisitos-para-desenvolver-este-projeto)
-  2. [Sobre o Projeto](#sobre-o-projeto)
+  - [Requisitos Para Desenvolver Este Projeto](#requisitos-para-desenvolver-este-projeto)
+  - [Sobre o Projeto](#sobre-o-projeto)
      - [Tecnologias a Serem Utilizadas](#tecnologias-a-serem-utilizadas)
-  3. [Durante o Desenvolvimento](#durante-o-desenvolvimento)
+  - [Durante o Desenvolvimento](#durante-o-desenvolvimento)
      - [Mantendo Seu Código Versionado](#mantendo-seu-código-versionado)
-  4. [Desenvolvendo o Projeto](#desenvolvendo-o-projeto)
+  - [Desenvolvendo o Projeto](#desenvolvendo-o-projeto)
      - [Iniciando o Projeto](#iniciando-o-projeto)
      - [Instalando as Dependências](#instalando-as-dependências)
      - [Rodando os Testes](#rodando-os-testes)
