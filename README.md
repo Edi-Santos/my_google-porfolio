@@ -20,7 +20,7 @@ Fique a vontade para pegar os projetos e desenvolver à sua maneira, publicar no
      - [Rodando os Testes](#rodando-os-testes)
   - [Requisitos do Projeto](#requisitos-do-projeto)
      - [Lista de Requisitos](#lista-de-requisitos)
-       - [1. Crie um \<header />](#1---crie-um-header)
+       - [1. Crie um Header](#1-crie-um-header)
 ---
 
 ### Requisitos Para Desenvolver Este Projeto
@@ -149,7 +149,7 @@ Mas fique à vontade para adicionar novas funcionalidades, adicionar os ícones 
 
 #### Lista de Requisitos
 
-### 1 - Crie um \<header />
+### 1 - Crie um Header
 
 Crie um \<header /> que possua 4 elementos.
 
