@@ -142,3 +142,9 @@ Ao concluir o projeto, ele deverá estar semelhante ao seguinte print:
 ><img src='./img_readme/projeto-finalizado.png' alt='Exemplo de projeto concluído'> </br>
 
 Mas fique à vontade para adicionar novas funcionalidades, adicionar os ícones de dentro do `<input />`, dentre outras coisas. A imagem acima é apenas um exemplo (o resultado do código da pasta _base_answer_)
+
+## ATENÇÂO!
+#### OS ARQUIVOS `index.html` e `style.css` (para o arquivo .css o nome não importa), DEVERÃO ESTAR NA RAIZ DO PROJETO PARA QUE OS TESTES SEJAM EXECUTADOS. </br>
+
+#### Lista de Requisitos
+
