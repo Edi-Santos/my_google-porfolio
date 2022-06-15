@@ -153,7 +153,7 @@ Mas fique à vontade para adicionar novas funcionalidades, adicionar os ícones 
 
 Crie um \<header /> que possua 4 elementos.
 
-##### O que será testado?
+##### O que será testado/validado?
 
 - Será validado que seu projeto possui uma TAG \<header />;
 - Será validado que a TAG \<header /> possui 4 elementos.
