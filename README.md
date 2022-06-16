@@ -23,6 +23,7 @@ Fique a vontade para pegar os projetos e desenvolver à sua maneira, publicar no
        - [1 - Crie um Header](#1---crie-um-header)
        - [2 - Crie um Main](#2---crie-um-main)
        - [3 - Crie um Footer](#3---crie-um-footer)
+   - [Considerações Finais](#considerações-finais)
 ---
 
 ### Requisitos Para Desenvolver Este Projeto
@@ -195,3 +196,15 @@ Este requisito é mais extenso e confuso, por conta disto, estarei "dividindo em
 - Será validado que o segundo elemento da TAG `<section />` possui o atributo `class="footer-links"` e 2 elementos filhos;
 - Será validado que o primeiro elemento filho do elemento com a classe `footer-links` possui o atributo `id="footer-links"` e 4 elementos filhos;
 - Será validado que o segundo elemento filho do elemento com a classe `footer-links` possui o atributo `id="links-for-you"` e 3 elementos filhos.
+
+### Considerações Finais
+
+Parabéns por chegar até aqui e concluir este que é o primeiro projeto de muitos que ainda virão por aí!!!
+
+<img src="./img_readme/the-office-steve-carell_congratulations.gif">
+
+## Muito obrigado pelo seu voto de confiança!
+
+Acesse o nosso grupo do Discord para se manter atualizado com relação a novos projetos, interagir comigo e com outras pessoas, tirar suas dúvidas e ajudar outros colegas.
+
+Link para o Discord: https://discord.gg/MRdcmGZy
