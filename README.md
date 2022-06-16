@@ -169,3 +169,28 @@ Crie um `<main />` que possua 3 elementos sendo eles uma imagem, um input do tip
 - Será validado que a TAG `<main />` possui 3 elementos;
 - Será validado que um destes 3 elementos é uma `<section />`;
 - Será validado que a TAG `<section />` possui 2 elementos.
+
+### 3 - Crie um `<footer />`
+
+Este requisito é mais extenso e confuso, por conta disto, estarei "dividindo em 3 partes"
+
+>Este requisito é um pouco mais complexo devido a quantidade de informações. Leia-o com calma e atenção. Se necessário, envie suas dúvidas em nosso Discord para que possamos esclarecer com mais tranquilidade.
+
+#### 3.1 - Crie um `<footer />` que possua 1 elemento `<section />`
+
+#### 3.2 - Esta `<section />`, por sua vez, deve possuir 2 elementos.
+
+#### 3.3 - O segundo elemento desta `<section />` deve possuir, exatamente, a classe `footer-links` (`class="footer-links"`) que deve possuir 2 elementos filhos.
+
+#### 3.4 - O primeiro elemento filho do elemento com a classe `footer-links` deve possuir o atributo `id="links-for-google"`. Este elemento deve possuir, também, 4 elementos filhos.
+
+#### 3.5 - O segundo elemento filho do elemento com a classe `footer-links` deve possuir o atributo `id="links-for-you"`. Este elemento deve possuir, também, 3 elementos filhos.
+
+##### O que será validado?
+
+- Será validado que seu projeto possui uma TAG `<footer />`;
+- Será validado que a TAG `<footer />` possui 1 elemento e que este seja uma TAG `<section />`;
+- Será validado que a TAG `<section />` possui 2 elementos;
+- Será validado que o segundo elemento da TAG `<section />` possui o atributo `class="footer-links"` e 2 elementos filhos;
+- Será validado que o primeiro elemento filho do elemento com a classe `footer-links` possui o atributo `id="footer-links"` e 4 elementos filhos;
+- Será validado que o segundo elemento filho do elemento com a classe `footer-links` possui o atributo `id="links-for-you"` e 3 elementos filhos.
