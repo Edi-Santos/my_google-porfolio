@@ -22,6 +22,7 @@ Fique a vontade para pegar os projetos e desenvolver à sua maneira, publicar no
      - [Lista de Requisitos](#lista-de-requisitos)
        - [1 - Crie um Header](#1---crie-um-header)
        - [2 - Crie um Main](#2---crie-um-main)
+       - [3 - Crie um footer](#3---crie-um-footer)
 ---
 
 ### Requisitos Para Desenvolver Este Projeto
