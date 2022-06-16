@@ -21,6 +21,7 @@ Fique a vontade para pegar os projetos e desenvolver à sua maneira, publicar no
   - [Requisitos do Projeto](#requisitos-do-projeto)
      - [Lista de Requisitos](#lista-de-requisitos)
        - [1 - Crie um Header](#1---crie-um-header)
+       - [2 - Crie um Main](#2---crie-um-main)
 ---
 
 ### Requisitos Para Desenvolver Este Projeto
@@ -157,3 +158,14 @@ Crie um \<header /> que possua 4 elementos.
 
 - Será validado que seu projeto possui uma TAG \<header />;
 - Será validado que a TAG \<header /> possui 4 elementos.
+
+### 2 - Crie um Main
+
+Crie um \<main /> que possua 3 elementos sendo eles uma imagem, um input do tipo texto e uma TAG \<section />. A TAG \<section />, por sua vez, deve possuir mais 2 elementos.
+
+##### O que será validado?
+
+- Será validado que seu projeto possui uma TAG \<main />;
+- Será validado que a TAG \<main /> possui 3 elementos;
+- Será validado que um destes 3 elementos é uma \<section />;
+- Será validado que a TAG \<section /> possui 2 elementos.
