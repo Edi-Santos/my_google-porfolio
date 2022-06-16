@@ -211,4 +211,4 @@ Parabéns por chegar até aqui e concluir este que é o primeiro projeto de muit
 
 Acesse o nosso grupo do Discord para se manter atualizado com relação a novos projetos, interagir comigo e com outras pessoas, tirar suas dúvidas e ajudar outros colegas.
 
-Link para o Discord: https://discord.gg/MRdcmGZy
+Link para o Discord: https://discord.gg/KN4uxuaYg6
