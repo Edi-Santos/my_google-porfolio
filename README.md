@@ -147,8 +147,10 @@ Ao concluir o projeto, ele deverá estar semelhante ao seguinte print:
 
 Mas fique à vontade para adicionar novas funcionalidades, adicionar os ícones de dentro do `<input />`, dentre outras coisas. A imagem acima é apenas um exemplo (o resultado do código da pasta _base_answer_)
 
+---
+
 ## ATENÇÂO!
-#### OS ARQUIVOS `index.html` e `style.css` (para o arquivo .css o nome não importa), DEVERÃO ESTAR NA RAIZ DO PROJETO PARA QUE OS TESTES SEJAM EXECUTADOS. </br>
+#### OS ARQUIVOS `index.html` e `style.css` (para o arquivo .css o nome não importa), DEVERÃO ESTAR NA RAIZ DO PROJETO PARA QUE OS TESTES SEJAM EXECUTADOS. </br> </br>
 
 #### Lista de Requisitos
 
@@ -196,6 +198,8 @@ Este requisito é mais extenso e confuso, por conta disto, estarei "dividindo em
 - Será validado que o segundo elemento da TAG `<section />` possui o atributo `class="footer-links"` e 2 elementos filhos;
 - Será validado que o primeiro elemento filho do elemento com a classe `footer-links` possui o atributo `id="footer-links"` e 4 elementos filhos;
 - Será validado que o segundo elemento filho do elemento com a classe `footer-links` possui o atributo `id="links-for-you"` e 3 elementos filhos.
+
+---
 
 ### Considerações Finais
 
